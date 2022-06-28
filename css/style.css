@@ -236,7 +236,7 @@ img {
     text-transform: uppercase;
 }
 .correcto {
-    background-color: rgb(74, 185, 0);
+    background-color: green;
     text-align: center;
     padding: 1rem;
     color: var(--blanco);
