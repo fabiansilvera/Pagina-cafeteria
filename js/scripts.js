@@ -1,1 +1,4 @@
-const heading = document.querySelector('.header__texto h2')
+const btnEnviar = document.querySelector('.boton--primario');
+btnEnviar.addEventListener('click', function() {
+    console.log('enviando formulario')
+});
